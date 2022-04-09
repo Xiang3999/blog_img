@@ -1,2 +1,3 @@
 # blog_img
-blog img repo
+
+https://raw.githubusercontent.com/....
